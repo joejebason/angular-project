@@ -1,0 +1,48 @@
+.btn-primary{
+    width:150px;
+    border-radius: 5px;
+    background-color: #04407c;
+    border:1px solid #04407c;
+    padding: 10px;
+    font-weight: 500;
+    margin: 20px;
+  }
+
+  .btn-primary:hover{
+    background-color: #fff;
+    color:#04407c
+  }
+  
+ 
+  .sec{
+    text-align: center;
+    margin: 25px 0px;
+  }
+
+  .sec h1, h2{
+    font-weight: bolder;
+    font-size: 56px;
+    color:#061520;
+    
+  }
+
+  
+
+  .sec h6{
+    color:#5e5e5e;
+    font-size: 22px;
+  }
+
+  @media (max-width: 768px){
+    .sec h1,h2 {
+       font-size: 26px;
+       
+     }
+     .sec h6 {
+      font-size: 15px;
+      
+    }
+
+   }
+
+ 
